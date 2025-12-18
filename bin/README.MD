@@ -623,6 +623,9 @@ This project is open source and available for educational purposes.
 
 👤 Author
 Bartley Josh D. Teleron
+Hazel Mae P. Jamero
+Kc D. Monencillo
+Vanezza B. Ragutero
 
 🙏 Acknowledgments
 
