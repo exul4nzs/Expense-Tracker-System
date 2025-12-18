@@ -192,7 +192,9 @@ For issues, questions, or contributions, please open an issue in the project rep
 
 **Version**: 1.0  
 **Last Updated**: December 2025  
-**Author**: Bartley's Expense Tracker TeamTroubleshooting
+**Author**: Teleron, Jamero, Monencillo, Ragutero
+
+Troubleshooting
 Issue: Application won't start
 
 Solution: Ensure Java is properly installed and Gson library is in the classpath
